@@ -1,4 +1,5 @@
 # Netlify Identity Demo
+![identity](https://github.com/ltcbuzy/Netlify-IdentityDemo/assets/96268218/bd66b430-00c4-4775-a0c4-6940872f1146)
 Developing a comprehensive Netlify Identity demo comprises several stages, encompassing the establishment of a [new site on Netlify](https://techconnect-solutions.netlify.app/posts/hello-world), activation of Netlify Identity, and the seamless integration of authentication features into a straightforward web application. The following is a systematic guide that utilizes HTML, JavaScript, and Netlify Identity for crafting a fundamental authentication demonstration.
 Building a comprehensive Netlify Identity demo involves a series of essential steps, each contributing to the seamless integration of user authentication in a web application. This guide will walk you through the process of setting up a new site on Netlify, enabling Netlify Identity, and creating a basic authentication demo using HTML and JavaScript.
 
